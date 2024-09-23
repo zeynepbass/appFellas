@@ -32,3 +32,5 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 
 ## Kurulum
 1.npm install-npm start ile client klasorunu calıstırabılırsınız
+![1](https://github.com/user-attachments/assets/c165eaf6-df98-4b22-989b-52b777be5324)
+
