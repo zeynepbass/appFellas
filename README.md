@@ -33,10 +33,9 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 ## Kurulum
 1.npm install-npm start ile client klasorunu calıstırabılırsınız
 (register işlemini gerçekleştiriyoruz (burada nodejs mongodb kullandım) proje bıze 200 tl kupon tanımlıyor ve localstroge kaydedıyor )
-<img width="1370" alt="Ekran Resmi 2024-09-23 18 45 04" src="https://github.com/user-attachments/assets/c3761bfc-62cd-4b36-a7fb-66428283f0f4">
+<img width="1365" alt="Ekran Resmi 2024-09-23 18 54 32" src="https://github.com/user-attachments/assets/0e746755-565c-49cb-8e35-81d42ec99e97">
 (login işlemini gerçekleştiriyoruz )
-<img width="1435" alt="Ekran Resmi 2024-09-23 18 45 19" src="https://github.com/user-attachments/assets/c1d502cf-05da-4261-8c47-b34d556a0d8a">
-
+<img width="1437" alt="Ekran Resmi 2024-09-23 18 56 07" src="https://github.com/user-attachments/assets/18e700b1-0223-4ff7-a43c-5658324c4ae0">
 (flights apisini çekiyorum country destinations apisiyle iç içe kullanarak ekrana basıyoruz)
 ![Ekran Resmi 2024-09-23 17 25 51 (2)](https://github.com/user-attachments/assets/6686fbf0-0050-458e-8762-787cb89baef2)
 (filtreleme işlemini gerçekleştiriyoruz biniş iniş kalkış tarihi iniş tarihi burada da flights apisini kullandım ve tarihi bugunun tarihinden kucuk olan binişleri sepete ekleme butonunu disabled yaptım)
