@@ -126,7 +126,7 @@ const Section = () => {
                       <input
                         type="text"
                         className="form-control pl-5"
-                        placeholder="AMD"
+                        placeholder="AMS"
                         style={{ borderRadius: " 50px 0 0 50px" }}
                         disabled
                       />
