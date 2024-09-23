@@ -26,7 +26,7 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
   - Uygulama, farklı cihazlarda düzgün görüntülenecek şekilde responsive olarak tasarlanmıştır.
 
 ## Teknolojiler
-- **Frontend:** React
+- **Frontend:** React ContextApi CSS3 BOOTSTRAP4
 - **Backend:** Node.js
 - **Veritabanı:** MongoDB
 
