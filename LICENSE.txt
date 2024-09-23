@@ -1,0 +1,11 @@
+MIT License
+
+Copyright (c) [2024] [Zeynep Baş]
+
+İzin verildiği gibi, bu yazılım ve belgeleri, herhangi bir sınırlama olmaksızın, kopyalama, değiştirme, birleştirme, yayınlama, dağıtma ve satma hakkına sahip olduğunuz ve bu yazılımın yanında verilen aşağıdaki koşullara uyduğunuz sürece sağlanmaktadır:
+
+Yukarıda belirtilen telif hakkı bildirimi ve bu izin bildirimi, yazılımın tüm kopyalarında veya önemli bölümlerinde bulunmalıdır.
+
+BU YAZILIM, HERHANGİ BİR GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" SAĞLANMAKTADIR, HEM DOĞRUDAN HEM DE ZIMNİ GARANTİLER DAHİL OLMAK ÜZERE, ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, SATILABİLİRLİK, BELİRLİ BİR AMAÇ İÇİN UYGUNLUK VE HAKKI İHLAL ETMEME GARANTİLERİ HİÇBİR ŞEKİLDE VERİLMEMEKTEDİR.
+
+
