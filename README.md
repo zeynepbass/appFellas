@@ -35,7 +35,7 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 (register işlemini gerçekleştiriyoruz (burada nodejs mongodb kullandım) proje bıze 200 tl kupon tanımlıyor ve localstroge kaydedıyor )
 ![1](https://github.com/user-attachments/assets/c165eaf6-df98-4b22-989b-52b777be5324)
 (login işlemini gerçekleştiriyoruz )
-![2](https://github.com/user-attachments/assets/4551b905-d07c-4565-8b0b-f6b580ce8f75)
+![Uploading Ekran Resmi 2024-09-23 18.34.34 (2).png…]()
 (flights apisini çekiyorum country destinations apisiyle iç içe kullanarak ekrana basıyoruz)
 ![Ekran Resmi 2024-09-23 17 25 51 (2)](https://github.com/user-attachments/assets/6686fbf0-0050-458e-8762-787cb89baef2)
 (filtreleme işlemini gerçekleştiriyoruz biniş iniş kalkış tarihi iniş tarihi burada da flights apisini kullandım ve tarihi bugunun tarihinden kucuk olan binişleri sepete ekleme butonunu disabled yaptım)
