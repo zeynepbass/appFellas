@@ -46,8 +46,9 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 ![Ekran Resmi 2024-09-23 17 31 41 (2)](https://github.com/user-attachments/assets/b9042f3c-23e7-48a4-9d0a-e051c51b8338)
 (ucuslarım sayfasında bır get ıslemı yaptım)
 ![Ekran Resmi 2024-09-23 17 32 40 (2)](https://github.com/user-attachments/assets/0573c2dd-7887-49d9-bb51-70c5fced2a42)
-(ucuslarım sayfasında detay alanı ıle bıtırdım)
-![Ekran Resmi 2024-09-23 17 32 40 (2)](https://github.com/user-attachments/assets/50114a2c-c6f2-4fe3-b809-12e4ff821868)
+(ucuslarım sayfasını detay alanı ıle bıtırdım toggle ıslemı ıle detayları sergıledım)
+![7](https://github.com/user-attachments/assets/bfbb8f06-7626-4091-ad9b-26e0e3ea2fa0)
+
 (eğer üye değilse kupon sağlıcagımıza daır onu bılgılendırdım)
 ![Ekran Resmi 2024-09-23 17 34 24 (2)](https://github.com/user-attachments/assets/b1ea7b34-4563-4ac6-8ca5-0c3d69c9e11f)
 (sepet işleminde manuel olarak bılgılerını yazdırdım kupon olarakta düşmedım emaılıne gonderdım oradan takıbını yapabılır ucuslarıma yonlendırmeyıp register sayfasına yonlendırdım)
