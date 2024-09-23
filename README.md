@@ -17,7 +17,8 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 
 - **Bilet Detayları:** 
   - Kullanıcılar, bilet detaylarını görebilir ve sepete atabilirler.
-  - Sepete atma işlemi için `localStorage` kullanılarak otomatik olarak ad, soyad ve e-posta bilgileri alınır.
+  - Sepete atma işlemi için `localStorage` kullanılarak otomatik olarak ad, soyad ve e-posta bilgileri alınır. Geri kalan detay apisinden çekilir ve yazdığım post apim ile mongodb 
+    kaydedilir.
 
 - **Toastify ile Bildirimler:**
   - Kullanıcı etkileşimleri için uyarı mesajları yayınlamak amacıyla Toastify kullanılmıştır.
@@ -42,7 +43,7 @@ Bu proje, kullanıcıların uçuşları arayıp rezervasyon yapabilmelerine olan
 ![Ekran Resmi 2024-09-23 17 27 25 (2)](https://github.com/user-attachments/assets/75a82359-ff2a-415a-86de-71c3a8970369)
 (check the details ile detay modal yaptım burada airlines apisi flights apisini kullandım iataCode ile havaalanına ulastım)
 ![Ekran Resmi 2024-09-23 17 28 27 (2)](https://github.com/user-attachments/assets/d9288ea2-864e-4c57-b8af-f942f9b23b98)
-(sepete ekleme işlemi kayıtlı olduğu için localstroge dinamik olarak ad soyad email getirtdim ve 200 tl kuponu dustum ve verıtabanıma kaydettım ucuslarım sayfasına yonlendırdım)
+(sepete ekleme işlemi kayıtlı olduğu için localstroge dinamik olarak ad soyad email getirdim ve 200 tl kuponu dustum ve verıtabanıma kaydettım ucuslarım sayfasına yonlendırdım)
 ![Ekran Resmi 2024-09-23 17 31 41 (2)](https://github.com/user-attachments/assets/b9042f3c-23e7-48a4-9d0a-e051c51b8338)
 (ucuslarım sayfasında bır get ıslemı yaptım)
 ![Ekran Resmi 2024-09-23 17 32 40 (2)](https://github.com/user-attachments/assets/0573c2dd-7887-49d9-bb51-70c5fced2a42)
